@@ -1,0 +1,58 @@
+[
+  {
+    "id": "0",
+    "sprite_name": "Tiger",
+    "animal_name": "호랑이",
+    "animal_check": "FALSE",
+    "sub_text": "이것은 호랑이입니다",
+    "animal_num": "1"
+  },
+  {
+    "id": "1",
+    "sprite_name": "Horse",
+    "animal_name": "말",
+    "animal_check": "FALSE",
+    "sub_text": "이것은 말입니다.",
+    "animal_num": "2"
+  },
+  {
+    "id": "2",
+    "sprite_name": "African_elephant",
+    "animal_name": "코끼리",
+    "animal_check": "FALSE",
+    "sub_text": "이것은 코끼리입니다",
+    "animal_num": "3"
+  },
+  {
+    "id": "3",
+    "sprite_name": "Zebra",
+    "animal_name": "얼룩말",
+    "animal_check": "FALSE",
+    "sub_text": "이것은 얼룩말입니다",
+    "animal_num": "4"
+  },
+  {
+    "id": "4",
+    "sprite_name": "Rhinoceros",
+    "animal_name": "코뿔소",
+    "animal_check": "FALSE",
+    "sub_text": "이것은 코뿔소입니다",
+    "animal_num": "5"
+  },
+  {
+    "id": "5",
+    "sprite_name": "Leopard",
+    "animal_name": "표범",
+    "animal_check": "FALSE",
+    "sub_text": "이것은 표범입니다",
+    "animal_num": "6"
+  },
+  {
+    "id": "6",
+    "sprite_name": "Indian_elephant",
+    "animal_name": "인도코끼리",
+    "animal_check": "FALSE",
+    "sub_text": "이것은 인도코끼리입니다",
+    "animal_num": "7"
+  }
+]
