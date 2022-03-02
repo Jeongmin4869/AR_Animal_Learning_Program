@@ -73,7 +73,6 @@ public class TestUGUI : MonoBehaviour
         PlayerPrefs.SetInt("NowPickAnimal", animal_num);
         PlayerPrefs.Save();
         ObView.SetActive(true);
-        //여기서 빠져나와도 time 0되게 하고싶음
     }
 
 

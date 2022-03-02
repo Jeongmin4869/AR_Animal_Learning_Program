@@ -379,7 +379,7 @@ MonoBehaviour:
   m_Color: {r: 0.97547174, g: 0.9842318, b: 1, a: 0.78039217}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
-  m_Maskable: 1
+  m_Maskable: 0
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
@@ -410,6 +410,8 @@ MonoBehaviour:
   AnimalSubText: {fileID: 3617999335878086471}
   AnimalImage: {fileID: 3617999335607670704}
   Item_btn: {fileID: 5024337405486045866}
+  id: 0
+  spriteName: 
 --- !u!114 &5024337405486045866
 MonoBehaviour:
   m_ObjectHideFlags: 0

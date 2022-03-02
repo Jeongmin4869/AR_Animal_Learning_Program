@@ -20,8 +20,6 @@ public class AnimalSettingInAR : MonoBehaviour
         {
             //지금 픽한 애니멀 확인! 세팅
             int index = PlayerPrefs.GetInt("NowPickAnimal");
-            //Instantiate(animal[index], objPosition.position, objPosition.rotation);
-
 
             var tmpObject = GameObject.Instantiate(animal[index], new Vector3(0, 0, 0), Quaternion.identity);    // 오브젝트 생성
             tmpObject.transform.parent = objPosition;
